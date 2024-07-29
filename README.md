@@ -1,2 +1,2 @@
-# crop-recommendation
-this is project which is made using machine learning algorithms like random forest classifier and K nearest neighbor classifier by these we can predict the class of the new input data
+#Crop Recommendation System
+This project leverages advanced machine learning techniques, including Random Forest and K-Nearest Neighbors classifiers, to predict the most suitable crop for a given area. By analyzing key agricultural parameters—Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall—our model provides tailored crop recommendations. This tool is designed to assist farmers and agricultural professionals in optimizing crop selection, enhancing yield potential, and ensuring sustainable farming practices.
